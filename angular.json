@@ -123,6 +123,6 @@
   },
   "defaultProject": "nativeAngular",
   "cli": {
-    "analytics": false
+    "defaultCollection": "@nativescript/schematics"
   }
 }
